@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2742cc45-51da-4401-bcfb-c82f8b3ed382" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Demo1intellij.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SDETBatch14.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class19/Task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,12 +15,16 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/class18/Dog.java" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -41,17 +40,29 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
     "jdk.selected.JAVA_MODULE": "corretto-11",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.EmpTester">
-    <configuration name="Dog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class17.Dog" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="Class19" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.USA">
+    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class21.AnimalTester" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class17.*" />
+          <option name="PATTERN" value="Class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmpTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class17.EmpTester" />
+    <configuration name="BrowserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class21.BrowserTester" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class17.*" />
+          <option name="PATTERN" value="Class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -72,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Employee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class17.Employee" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class21.Test" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class17.*" />
+          <option name="PATTERN" value="Class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +96,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class17.Task3" />
+    <configuration name="USA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Replits.USA" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class17.*" />
+          <option name="PATTERN" value="Replits.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class21.test" />
+      <module name="SDETBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class21.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,10 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EmpTester" />
-        <item itemvalue="Application.Employee" />
-        <item itemvalue="Application.Dog" />
-        <item itemvalue="Application.Task3" />
+        <item itemvalue="Application.USA" />
+        <item itemvalue="Application.BrowserTester" />
+        <item itemvalue="Application.AnimalTester" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -128,5 +153,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SDETBatch14$student.ic" NAME="student Coverage Results" MODIFIED="1665510946329" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Class19.*</FILTER>
+    </SUITE>
   </component>
 </project>
