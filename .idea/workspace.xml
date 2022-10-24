@@ -2,29 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2742cc45-51da-4401-bcfb-c82f8b3ed382" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Class16/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/SyntaxEmployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class16/Task1Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskEightGroup18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskElevenGroup18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskFiveGroup18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskFourGroup18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskNineGroup18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskOneGroup18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskSevenGroup18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskSixGroup18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskTenGroup18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskThreeGroup18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskTwogroup18.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/JavaClass15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/LocalVariableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/MeethoddemoTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/MethodsDemoOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/MethodsDemoThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/StringBiuldervsBuffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/TaskSix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/printHello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/stringRecap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/taskFive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class14and15/taskThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReviewClass17/ReviewClass17.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReviewClass17/src/Dog.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReviewClass17/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class16/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReviewClass17/src/Shelter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReviewClass17/src/Teacher.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groupProject1and3/WebDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/groupProject1and3/WebDriver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +41,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Fjggalao3xVKmdgGtQYAcxgshg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -64,7 +57,7 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
     "jdk.selected.JAVA_MODULE": "corretto-11",
-    "last_opened_file_path": "C:/Users/Camilo E Londono/IdeaProjects/SDETbatch14/src/GroupProjectOne",
+    "last_opened_file_path": "C:/Users/Camilo E Londono/IdeaProjects/SDETbatch14/src/Class14and15",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -74,17 +67,21 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Camilo E Londono\IdeaProjects\SDETbatch14\src\Class14and15" />
       <recent name="C:\Users\Camilo E Londono\IdeaProjects\SDETbatch14\src\GroupProjectOne" />
       <recent name="C:\Users\Camilo E Londono\IdeaProjects\SDETbatch14\src\Class16" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Camilo E Londono\IdeaProjects\SDETbatch14\src\groupProject1and3" />
+    </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="Class19" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.taskEightGroup18">
+  <component name="RunManager" selected="Application.Test">
     <configuration name="Class16.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class16.Main" />
       <module name="SDETBatch14" />
@@ -178,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
         <item itemvalue="Application.taskEightGroup18" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.Class16.Main" />
         <item itemvalue="Application.groupProjectTask2.Main" />
-        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
