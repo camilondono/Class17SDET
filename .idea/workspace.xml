@@ -2,10 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2742cc45-51da-4401-bcfb-c82f8b3ed382" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Class19/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class19/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16/BankAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16/SyntaxEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class16/Task1Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskEightGroup18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskElevenGroup18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskFiveGroup18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskFourGroup18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskNineGroup18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskOneGroup18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskSevenGroup18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskSixGroup18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskTenGroup18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskThreeGroup18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GroupProjectOne/taskTwogroup18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReviewClass17/ReviewClass17.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReviewClass17/src/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReviewClass17/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class16/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReviewClass17/src/Shelter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReviewClass17/src/Teacher.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +35,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -44,11 +64,19 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
     "jdk.selected.JAVA_MODULE": "corretto-11",
+    "last_opened_file_path": "C:/Users/Camilo E Londono/IdeaProjects/SDETbatch14/src/GroupProjectOne",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "preferences.keymap"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Camilo E Londono\IdeaProjects\SDETbatch14\src\GroupProjectOne" />
+      <recent name="C:\Users\Camilo E Londono\IdeaProjects\SDETbatch14\src\Class16" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -56,13 +84,13 @@
       <recent name="Class19" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.USA">
-    <configuration name="AnimalTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21.AnimalTester" />
+  <component name="RunManager" selected="Application.taskEightGroup18">
+    <configuration name="Class16.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class16.Main" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21.*" />
+          <option name="PATTERN" value="Class16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +98,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BrowserTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21.BrowserTester" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class16.Student" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21.*" />
+          <option name="PATTERN" value="Class16.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,11 +112,11 @@
       </method>
     </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21.Test" />
+      <option name="MAIN_CLASS_NAME" value="groupProject1and3.Test" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21.*" />
+          <option name="PATTERN" value="groupProject1and3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="USA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Replits.USA" />
+    <configuration name="groupProjectTask2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="groupProjectTask2.Main" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Replits.*" />
+          <option name="PATTERN" value="groupProjectTask2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +137,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class21.test" />
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="groupProject1and3.main" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class21.*" />
+          <option name="PATTERN" value="groupProject1and3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="groupProject1and3.main" />
+      <module name="SDETBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="groupProject1and3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="taskEightGroup18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GroupProjectOne.taskEightGroup18" />
+      <module name="SDETBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GroupProjectOne.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,10 +178,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.USA" />
-        <item itemvalue="Application.BrowserTester" />
-        <item itemvalue="Application.AnimalTester" />
-        <item itemvalue="Application.test" />
+        <item itemvalue="Application.taskEightGroup18" />
+        <item itemvalue="Application.Student" />
+        <item itemvalue="Application.Class16.Main" />
+        <item itemvalue="Application.groupProjectTask2.Main" />
         <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>

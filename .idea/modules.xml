@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ReviewClass17/ReviewClass17.iml" filepath="$PROJECT_DIR$/ReviewClass17/ReviewClass17.iml" />
       <module fileurl="file://$PROJECT_DIR$/SDETBatch14.iml" filepath="$PROJECT_DIR$/SDETBatch14.iml" />
       <module fileurl="file://$PROJECT_DIR$/class17/class17.iml" filepath="$PROJECT_DIR$/class17/class17.iml" />
     </modules>
