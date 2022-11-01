@@ -1,4 +1,4 @@
-package ReviewClassOct20;
+package ReviewClass4;
 
 public class Apple extends Fruit{
     String size;

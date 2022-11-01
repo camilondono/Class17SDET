@@ -2,43 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2742cc45-51da-4401-bcfb-c82f8b3ed382" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Class24/ArrayListDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class24/ArrayListDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class24/ArrayListDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class24/ArrayListDemoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class24/ArrayListdemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class24/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class24/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class24/Horse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class24/WhyCollectionsFramework.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/ArrayListMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/ConstainsAllDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/GenericCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/HWtaskOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/IIIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/IteratorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/IteratorDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/IteratorDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/IteratorDemo4Lambda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/RemoveAllDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/RemoveAllDemoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/WrapperClasses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Aguila.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Tiburon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Replits/Tortuga.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onMyOwn/ArrayDemoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onMyOwn/ArrayWithLenght.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onMyOwn/ClaseRectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onMyOwn/EstudianteNotaMatricula.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onMyOwn/Rectangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onMyOwn/Vehiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onMyOwn/matrizDemoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onMyOwn/matrizDos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onMyOwn/vehiculoTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass4/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass4/carTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass5/Juice.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class24/testergit.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Replits/USA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/USA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct13/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass3/Country.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct13/Peru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass3/Peru.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct13/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass3/School.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct13/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass3/Teacher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct20/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass4/Apple.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct20/Banana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass4/Banana.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct20/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass4/Fruit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,8 +24,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JUnit5 Test Class" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>

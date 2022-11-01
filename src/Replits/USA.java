@@ -1,7 +1,7 @@
 package Replits;
 
 
-import ReviewClassOct13.Country;
+import ReviewClass3.Country;
 
                                       //error son class of country class in Review classOct13
  public class USA extends Country {

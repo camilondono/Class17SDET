@@ -1,4 +1,4 @@
-package ReviewClassOct13;
+package ReviewClass3;
 
 public class Peru extends Country{
 
