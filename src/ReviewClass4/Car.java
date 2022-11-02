@@ -25,7 +25,7 @@ public abstract class Car {
         super(make,model,color);
     }
     public void start(){
-        System.out.println(make +"Starts automatically");
+        System.out.println(make +" Starts automatically");
     }
     public void stop(){
         System.out.println(make+" stops when we press the brake");

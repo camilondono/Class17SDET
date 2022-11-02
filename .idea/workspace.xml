@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2742cc45-51da-4401-bcfb-c82f8b3ed382" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass4/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass4/carTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass5/Juice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onMyOwn/array.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Replits/USA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Replits/USA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct13/Country.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass3/Country.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct13/Peru.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass3/Peru.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct13/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass3/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct13/Teacher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass3/Teacher.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct20/Apple.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass4/Apple.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct20/Banana.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass4/Banana.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReviewClassOct20/Fruit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass4/Fruit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ReviewClass4/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ReviewClass4/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +70,7 @@
       <recent name="Class19" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.array">
     <configuration name="ArrayListMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class25.ArrayListMethods" />
       <module name="SDETBatch14" />
@@ -106,19 +97,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HWtaskOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class25.HWtaskOne" />
-      <module name="SDETBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class25.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class25.Main" />
       <module name="SDETBatch14" />
@@ -132,12 +110,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WrapperClasses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class25.WrapperClasses" />
+    <configuration name="array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="onMyOwn.array" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class25.*" />
+          <option name="PATTERN" value="onMyOwn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="carTester" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReviewClass4.carTester" />
+      <module name="SDETBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ReviewClass4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.array" />
+        <item itemvalue="Application.carTester" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.ConstainsAllDemo" />
         <item itemvalue="Application.ArrayListMethods" />
-        <item itemvalue="Application.HWtaskOne" />
-        <item itemvalue="Application.WrapperClasses" />
       </list>
     </recent_temporary>
   </component>
