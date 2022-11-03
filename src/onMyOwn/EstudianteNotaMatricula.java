@@ -6,9 +6,9 @@ public class EstudianteNotaMatricula {
 
         public static void main (String[]args){
 
-        Estudiante estudiante1 = new Estudiante("Pepito Perez", 100, 2022, 9, 20);
-        Estudiante estudiante2 = new Estudiante("Paco Gomez", 99, 2021, 1, 3);
-        Estudiante estudiante3 = new Estudiante("Ana Restrepo", 98, 2020, 4, 14);
+        estudiante estudiante1 = new estudiante("Pepito Perez", 100, 2022, 9, 20);
+        estudiante estudiante2 = new estudiante("Paco Gomez", 99, 2021, 1, 3);
+        estudiante estudiante3 = new estudiante("Ana Restrepo", 98, 2020, 4, 14);
 
 
         System.out.println(" Nombre:  " + estudiante1.dameNombre() + "  Calificación:  " + estudiante1.dameNota() + " Fecha Matricula: " + estudiante1.dameFechaMatricula());
@@ -23,8 +23,8 @@ public class EstudianteNotaMatricula {
 
     }
 
-    class Estudiante {
-        public Estudiante(String nom, double Not, int ano, int mes, int dia) {
+    class estudiante {
+        public estudiante(String nom, double Not, int ano, int mes, int dia) {
 
             nombre = nom;
             nota = Not;
