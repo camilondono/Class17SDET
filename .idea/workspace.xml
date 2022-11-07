@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2742cc45-51da-4401-bcfb-c82f8b3ed382" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Class25/HWtaskTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/HwtaskThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/TaskOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class25/whyWeNeedIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26/ArrayListVslinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26/ListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26/TypesOfSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26/WhySet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26/WrapperDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/HWOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/HWTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class26/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27/MaoDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27/MapDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27/MapDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27/MapDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27/MapDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27/MapDemoTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27/Mapdemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class27/exceltest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class25/GenericCollections.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SDETBatch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch14.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/class18/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class18/Car.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +59,7 @@
     &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
     &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Camilo E Londono/IdeaProjects/SDETbatch14/src/Class14and15&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Camilo E Londono/Downloads/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -63,6 +68,9 @@
   }
 }</component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Class26" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Camilo E Londono\IdeaProjects\SDETbatch14\src\Class14and15" />
       <recent name="C:\Users\Camilo E Londono\IdeaProjects\SDETbatch14\src\GroupProjectOne" />
@@ -78,26 +86,13 @@
       <recent name="Class19" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayListVslinkedList">
+  <component name="RunManager" selected="Application.HwtaskThree">
     <configuration name="ArrayListVslinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class26.ArrayListVslinkedList" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Class26.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HWtaskTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class25.HWtaskTwo" />
-      <module name="SDETBatch14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class25.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TaskOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class25.TaskOne" />
+    <configuration name="MaoDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class27.MaoDemo4" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class25.*" />
+          <option name="PATTERN" value="Class27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +126,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="onMyOwn.main" />
+    <configuration name="MapDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class27.MapDemo3" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="onMyOwn.*" />
+          <option name="PATTERN" value="Class27.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class27.MapDemo5" />
+      <module name="SDETBatch14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class27.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayListVslinkedList" />
         <item itemvalue="Application.HwtaskThree" />
-        <item itemvalue="Application.HWtaskTwo" />
-        <item itemvalue="Application.TaskOne" />
-        <item itemvalue="Application.main (1)" />
+        <item itemvalue="Application.ArrayListVslinkedList" />
+        <item itemvalue="Application.MapDemo5" />
+        <item itemvalue="Application.MaoDemo4" />
+        <item itemvalue="Application.MapDemo3" />
       </list>
     </recent_temporary>
   </component>
