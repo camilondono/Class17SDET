@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2742cc45-51da-4401-bcfb-c82f8b3ed382" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Class26/ArrayListDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26/HWOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26/HWTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class26/Insurance.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class27/MaoDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class27/MapDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class27/MapDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class27/MapDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class27/MapDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class27/MapDemoTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class27/Mapdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class27/exceltest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass6/ListDemoWithcustomClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass6/ListsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass6/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass6/SetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass6/SetDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass6/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/onMyOwn/FibonacciLinkList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SDETBatch14.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SDETBatch14.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/class18/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/class18/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class27/MaoDemo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class27/MapDemo4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,13 +79,13 @@
       <recent name="Class19" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HwtaskThree">
-    <configuration name="ArrayListVslinkedList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class26.ArrayListVslinkedList" />
+  <component name="RunManager" selected="Application.MapDemo">
+    <configuration name="ListDemoWithcustomClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReviewClass6.ListDemoWithcustomClass" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class26.*" />
+          <option name="PATTERN" value="ReviewClass6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HwtaskThree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class25.HwtaskThree" />
+    <configuration name="ListsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReviewClass6.ListsDemo" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class25.*" />
+          <option name="PATTERN" value="ReviewClass6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaoDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class27.MaoDemo4" />
+    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReviewClass6.MapDemo" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class27.*" />
+          <option name="PATTERN" value="ReviewClass6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class27.MapDemo3" />
+    <configuration name="SetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReviewClass6.SetDemo" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class27.*" />
+          <option name="PATTERN" value="ReviewClass6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +132,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class27.MapDemo5" />
+    <configuration name="SetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReviewClass6.SetDemo1" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class27.*" />
+          <option name="PATTERN" value="ReviewClass6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +147,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HwtaskThree" />
-        <item itemvalue="Application.ArrayListVslinkedList" />
-        <item itemvalue="Application.MapDemo5" />
-        <item itemvalue="Application.MaoDemo4" />
-        <item itemvalue="Application.MapDemo3" />
+        <item itemvalue="Application.MapDemo" />
+        <item itemvalue="Application.SetDemo1" />
+        <item itemvalue="Application.SetDemo" />
+        <item itemvalue="Application.ListDemoWithcustomClass" />
+        <item itemvalue="Application.ListsDemo" />
       </list>
     </recent_temporary>
   </component>
