@@ -7,7 +7,7 @@ public class Dog {
     private int age;
     private double weight;
 
-    Dog(String dogName,String dogBreed, String dogColor, int dogAge, double dogWeight){
+    public Dog(String dogName, String dogBreed, String dogColor, int dogAge, double dogWeight){
 
         name=dogName;
         breed=dogBreed;
