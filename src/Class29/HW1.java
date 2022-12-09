@@ -11,9 +11,18 @@ public class HW1 {
      */
         LinkedHashMap<Integer,String> building = new LinkedHashMap<>();
         building.put(1,"Google");
-        building.put(1,"Google");
-        building.put(1,"Google");
-        building.put(1,"Google");
+        building.put(2,"Syntax");
+        building.put(3,"Amazon");
+        building.put(4,"Amazon");
+        building.put(5,"Facebook");
+        building.put(6,"Facebook");
+        building.put(7,"Indeed");
+
+        System.out.println("Total Number of entries: "+building.size());
+        building.replace(4,"Tesla");
+        building.remove(7,"Indeed");
+        System.out.println(building);
+
 
 
     }

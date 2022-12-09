@@ -2,22 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2742cc45-51da-4401-bcfb-c82f8b3ed382" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Class29/ExcelData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class29/FilesDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class29/HW1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class29/MethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class29/ReadingExcelDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class29/ReadingExcelFileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class29/ReadingExcelFileDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class29/Review1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass7/FileDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass7/MapDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass7/VarDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReviewClass7/interviewQ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/utils/ExcelReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class29/HW2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class29/HW3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class29/HW4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class29/HW5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class29/HW6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class29/HW7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/ExeptionDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/ExeptionDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/ThrowVsThrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/TypesOfExeptionsDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/finallyBlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class30/tryCatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass8/ExceptionDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReviewClass8/exceptionDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class17/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class17/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class17/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class17/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class29/HW1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class29/HW1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,13 +89,13 @@
       <recent name="Class19" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VarDemo">
-    <configuration name="MapDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClass7.MapDemo1" />
+  <component name="RunManager" selected="Application.exceptionDemo2">
+    <configuration name="ExeptionDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class30.ExeptionDemo2" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReviewClass7.*" />
+          <option name="PATTERN" value="Class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadingExcelFileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class29.ReadingExcelFileDemo1" />
+    <configuration name="ExeptionDemo3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class30.ExeptionDemo3" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class29.*" />
+          <option name="PATTERN" value="Class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReviewClass7.FileDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClass7.FileDemo1" />
+    <configuration name="TypesOfExeptionsDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class30.TypesOfExeptionsDemo1" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReviewClass7.*" />
+          <option name="PATTERN" value="Class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClass7.VarDemo" />
+    <configuration name="exceptionDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReviewClass8.exceptionDemo2" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReviewClass7.*" />
+          <option name="PATTERN" value="ReviewClass8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="interviewQ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ReviewClass7.interviewQ" />
+    <configuration name="finallyBlockDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class30.finallyBlockDemo" />
       <module name="SDETBatch14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ReviewClass7.*" />
+          <option name="PATTERN" value="Class30.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VarDemo" />
-        <item itemvalue="Application.ReviewClass7.FileDemo1" />
-        <item itemvalue="Application.interviewQ" />
-        <item itemvalue="Application.MapDemo1" />
-        <item itemvalue="Application.ReadingExcelFileDemo1" />
+        <item itemvalue="Application.exceptionDemo2" />
+        <item itemvalue="Application.finallyBlockDemo" />
+        <item itemvalue="Application.TypesOfExeptionsDemo1" />
+        <item itemvalue="Application.ExeptionDemo3" />
+        <item itemvalue="Application.ExeptionDemo2" />
       </list>
     </recent_temporary>
   </component>

@@ -34,6 +34,9 @@ public class Person {
         this.gender = gender;
     }
 
+    public Person(String camilo, String londono, int i, int i1) {
+    }
+
     public static void main(String[] args) {
         Person person=new Person();
         Person person2=new Person("Asma");
